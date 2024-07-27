@@ -53,16 +53,18 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gafawork&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gafawork)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gafawork&hide_progress=true)
+
+### ✍️ Latest Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+- [Conhecimento Profundo a Formação de Times - Parte IV]([https://medium.com/@shekhartarare/integrating-stripe-checkout-in-an-asp-net-core-8-application-a-step-by-step-guide-a51b05bb4f98?source=rss-1ce282e5986c------2](https://medium.com/@tirso.andrade/uma-jornada-%C3%A1gil-a-forma%C3%A7%C3%A3o-de-times-parte-04-b646616ac1b0))
+<!-- BLOG-POST-LIST:END -->
+
     
 **Connect WIth Me**
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40" height="40"/> 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40" height="40" alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:gafawork">
-
-
 <a href="https://in.linkedin.com/in/tirsoandrade"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://twitter.com/gafawork"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-
+<a href="https://twitter.com/gafawork"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
           
           
