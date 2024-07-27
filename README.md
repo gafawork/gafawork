@@ -63,8 +63,7 @@
     
 **Connect WIth Me**
 
-<a href="https://in.linkedin.com/in/tirsoandrade"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://twitter.com/gafawork"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirsoandrade/)
 [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tirso.andrade)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/gafawork)
           
