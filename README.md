@@ -61,5 +61,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40" height="40" alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:gafawork">
 
 
+<a href="https://in.linkedin.com/in/tirsoandrade"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://twitter.com/gafawork"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+
           
           
