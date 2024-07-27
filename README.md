@@ -49,5 +49,8 @@
 **Connect WIth Me**
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40" height="40"/> 
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:gafawork)
+
           
           
