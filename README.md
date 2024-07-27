@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Tirso Andrade
 
-![](https://komarev.com/ghpvc/?username=gafawork)
+![](https://komarev.com/ghpvc/?username=your-github-gafawork&style=flat-square)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gafawork&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gafawork)](https://github.com/anuraghazra/github-readme-stats)
