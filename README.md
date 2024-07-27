@@ -19,6 +19,11 @@
 - ⚡ Fun fact: ...
 
 Languages
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+<i class="devicon-java-plain-wordmark colored"></i>
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           
 
