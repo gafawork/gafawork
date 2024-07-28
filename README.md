@@ -57,14 +57,14 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gafawork&theme=vue" />
 </p>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
 ### ✍️ Latest Blog Posts :
 
-<!-- BLOG-POST-LIST:START -->
-- [Conhecimento Profundo a Formação de Times - Parte IV]([https://medium.com/@shekhartarare/integrating-stripe-checkout-in-an-asp-net-core-8-application-a-step-by-step-guide-a51b05bb4f98?source=rss-1ce282e5986c------2](https://medium.com/@tirso.andrade/uma-jornada-%C3%A1gil-a-forma%C3%A7%C3%A3o-de-times-parte-04-b646616ac1b0))
-<!-- BLOG-POST-LIST:END -->
+- [Conhecimento Profundo a Formação de Times - Parte IV](https://medium.com/@tirso.andrade/uma-jornada-%C3%A1gil-a-forma%C3%A7%C3%A3o-de-times-parte-04-b646616ac1b0))
+- [Conhecimento Profundo a Formação de Times - Parte III](https://medium.com/@tirso.andrade/uma-jornada-%C3%A1gil-a-topologia-de-time-parte-iii-81addac83086))
+- [Conhecimento Profundo a Formação de Times - Parte II](https://medium.com/@tirso.andrade/uma-jornada-%C3%A1gil-a-topologia-de-time-parte-ii-52484071396d))
+- [Conhecimento Profundo a Formação de Times - Parte I](https://medium.com/@tirso.andrade/uma-jornada-%C3%A1gil-a-topologia-de-times-parte-i-86779e8c1662))
+
+
 
     
 ## 🌐 Socials
