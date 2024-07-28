@@ -6,10 +6,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## I'm Tirso Andrade
+## I'm Tirso Andrade</h1>
 
 
-**About Me** 
+![](https://komarev.com/ghpvc/?username=your-github-gafawork&style=for-the-badge)
+
+# 💫 About Me :
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Blockchain.
@@ -48,7 +50,6 @@
           
 <br>
 
-![](https://komarev.com/ghpvc/?username=your-github-gafawork&style=for-the-badge)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gafawork&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gafawork)](https://github.com/anuraghazra/github-readme-stats)
@@ -61,10 +62,19 @@
 <!-- BLOG-POST-LIST:END -->
 
     
-**Connect WIth Me**
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirsoandrade/)
 [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tirso.andrade)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/gafawork)
           
+
+  ## 💰You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mtechviral) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/imthepk) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mtechviral) 
+  
           
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
