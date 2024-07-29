@@ -11,7 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-gafawork&style=for-the-badge)
 
-# 💫 About Me :
+# About Me :
 
 - 🔭 I’m currently working on solution architecture.
 - 🌱 I’m currently learning Blockchain.
