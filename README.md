@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/4c65c2c4-2a77-43e8-92ee-a54c25068f3d)
+
+
+![image](https://github.com/gafawork/gafawork/blob/main/whitebox_gafawork.png)
 
 
 <h1>
