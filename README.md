@@ -41,11 +41,64 @@
           
           
 <br>
+
+
+## 🔗 Blockchain
+
+## 💲 Cryptocurrency
+
+
           
-## 🛠️ Frameworks
+## 📚 Frameworks, Platforms and Libraries
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" width="40" height="40"/>  <img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original-wordmark.svg" width="40" height="40"/> 
           
+<br>
+
+# 🤿 DevOps
+
+<br>
+
+## 🤖 AI
+
+<br>
+
+## 🔬 Analytics
+
+<br>
+
+## 💻 IDEs/Editors
+
+<br>
+
+## 📋 Languages
+
+## 📜 JavaScript
+
+## ☕ Java
+
+## ©️ C/C++
+
+## 🐍 Python
+
+
+
+<br>
+
+## 🖥️ ML/DL
+
+<br>
+
+## 🎛️ Operating System
+
+<br>
+
+## 🗄️ Servers
+
+<br>
+
+## 🕓 Version Control
+
 <br>
 
 ##  Embedded
