@@ -25,6 +25,9 @@
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg"  width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="40" height="40"/>          
 
+
+<img loading="lazy" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="40" height="40" title="C"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="40" height="40" title="C++"/>  
+
  
 
 
@@ -38,6 +41,10 @@
 
 
 ## ©️ C/C++
+
+<img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" width="40" height="40" title="Qt"/>
+
+<br>
 
 ## 🐍 Python
 
