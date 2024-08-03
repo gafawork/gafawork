@@ -43,21 +43,17 @@ Node"/>
 ## ©️ C/C++
 
 <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" width="40" height="40" title="Qt"/>
-
-
 <br>
+
 
 ## 🐍 Python
 
 <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" width="40" height="40" title="NumPy"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" width="40" height="40" title="
 Pandas"/>
-
-
 <br>
 
 
 ## 🛢️ Databases
-
 
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="40" height="40" title="PostgreSQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="40" height="40" title="Oracle"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="40" height="40" title="
 MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" width="40" height="40" title="Redis"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png" width="40" height="40" title="Neo4j"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="40" height="40" title="MongoDB"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" width="40" height="40" title="MariaDB"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" height="40" title="SQLite"/>
@@ -76,31 +72,31 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 
 
 ## 🔗 Blockchain
+<br>
+
 
 ## 💲 Cryptocurrency
-
+<br>
 
           
 ## 📚 Frameworks, Platforms and Libraries
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" width="40" height="40"/>  <img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original-wordmark.svg" width="40" height="40"/> 
-          
 <br>
 
 # 🤿 DevOps
-
 <br>
+
 
 ## 🤖 AI
-
 <br>
+
 
 ## 🔬 Analytics
-
 <br>
 
-## 💻 IDEs/Editors
 
+## 💻 IDEs/Editors
 <br>
 
 
