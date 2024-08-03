@@ -18,118 +18,92 @@
 - 🔭 I’m currently working on solution architecture.
 - 🌱 I’m currently learning Blockchain.
 - 📫 How to reach me: linkedin
-
 <br>
+
 
 ## 📋 Languages
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="40" height="40" title="C"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="40" height="40" title="C++"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40" height="40" title="Python"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="40" height="40" title="Java"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" width="40" height="40" title="Solidity"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  width="40" height="40" title="Flutter"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg"  width="40" height="40" title="Dart"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="40" height="40" title="Visual Basic"/>          
 <br>
 
+
 ## 📜 JavaScript
-
-
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="40" height="40" title="Javascript"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="40" height="40" title="TypeScript"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="40" height="40" title="
-npm"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="40" height="40" title="yarn"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="40" height="40" title="
-Node"/>
-
-<br>
-
+npm"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="40" height="40" title="yarn"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="40" height="40" title="Node"/>
+<br><br>
 
 ## ☕ Java
-
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="40" height="40" title="Spring" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="40" height="40" title="Spring Boot" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="40" height="40" title="Maven" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" width="40" height="40" title="Hibernate" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png" width="40" height="40" title="Liquibase" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117446983-2e532980-af3d-11eb-823a-db81096fa435.png" width="40" height="40" title="Struts" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" width="40" height="40" title="JUnit" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" width="40" height="40" title="Mockito" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" width="40" height="40" title="Lombok"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png" width="40" height="40" title="Vaadin"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" width="40" height="40" title="Tomcat"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183017080-bc1a1389-7286-4888-af7b-5aad88909995.png" width="40" height="40" title="Jetty"/>       
 <br>
 
-## ©️ C/C++
 
+## ©️ C/C++
 <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" width="40" height="40" title="Qt"/>
-<br>
+<br><br>
 
 
 ## 🐍 Python
 
-<img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" width="40" height="40" title="NumPy"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" width="40" height="40" title="
-Pandas"/>
-<br>
+<img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" width="40" height="40" title="NumPy"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" width="40" height="40" title="Pandas"/>
+<br><br>
 
 
 ## 🛢️ Databases
-
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="40" height="40" title="PostgreSQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="40" height="40" title="Oracle"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="40" height="40" title="
 MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" width="40" height="40" title="Redis"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png" width="40" height="40" title="Neo4j"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="40" height="40" title="MongoDB"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" width="40" height="40" title="MariaDB"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" height="40" title="SQLite"/>
-<br>
+<br><br>
 
 
 ## 🧰 Sofware & Tools
-
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg"  width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40"/> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original-wordmark.svg" width="40" height="40"/> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>  <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" width="40" height="40"/> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40"/> 
 <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" width="40" height="40"/> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" width="40" height="40"/>  <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width="40" height="40"/> <img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/> <img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40"/> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" height="40"/> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40"/>  <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>  <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="40" height="40"/>
-          
-          
-<br>
+<br><br>
 
 
 ## 🔗 Blockchain
-<br>
+<br><br>
 
 
 ## 💲 Cryptocurrency
-<br>
+<br><br>
 
           
 ## 📚 Frameworks, Platforms and Libraries
-
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" width="40" height="40"/>  <img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original-wordmark.svg" width="40" height="40"/> 
-<br>
+<br><br>
 
 # 🤿 DevOps
-<br>
+<br><br>
 
 
 ## 🤖 AI
-<br>
+<br><br>
 
 
 ## 🔬 Analytics
-<br>
+<br><br>
 
 
 ## 💻 IDEs/Editors
-<br>
+<br><br>
 
-
-
-
-
-
-
-<br>
 
 ## 🖥️ ML/DL
-
-<br>
+<br><br>
 
 ## 🎛️ Operating System
-
-<br>
+<br><br>
 
 ## 🗄️ Servers
-
-<br>
+<br><br>
 
 ## 🕓 Version Control
-
-<br>
+<br><br>
 
 ##  Embedded
-
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"  width="40" height="40" />
-          
-
-<br>
-
+<br><br>
 
 ## 📟 GitHub Stats
 <p align="center">
@@ -144,11 +118,8 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 - [Conhecimento Profundo a Formação de Times - Parte II](https://medium.com/@tirso.andrade/uma-jornada-%C3%A1gil-a-topologia-de-time-parte-ii-52484071396d))
 - [Conhecimento Profundo a Formação de Times - Parte I](https://medium.com/@tirso.andrade/uma-jornada-%C3%A1gil-a-topologia-de-times-parte-i-86779e8c1662))
 
-
-
     
 ## 🌐 Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirsoandrade/)
 [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tirso.andrade)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/gafawork)
