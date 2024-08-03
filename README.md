@@ -35,6 +35,14 @@
 
 ## 📜 JavaScript
 
+
+<img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="40" height="40" title="Javascript"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="40" height="40" title="TypeScript"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="40" height="40" title="
+npm"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="40" height="40" title="yarn"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="40" height="40" title="
+Node"/>
+
+>br>
+
+
 ## ☕ Java
 
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="40" height="40" title="Spring" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="40" height="40" title="Spring Boot" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="40" height="40" title="Maven" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" width="40" height="40" title="Hibernate" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png" width="40" height="40" title="Liquibase" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117446983-2e532980-af3d-11eb-823a-db81096fa435.png" width="40" height="40" title="Struts" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" width="40" height="40" title="JUnit" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" width="40" height="40" title="Mockito" /> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" width="40" height="40" title="Lombok"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png" width="40" height="40" title="Vaadin"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" width="40" height="40" title="Tomcat"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183017080-bc1a1389-7286-4888-af7b-5aad88909995.png" width="40" height="40" title="Jetty"/>       
