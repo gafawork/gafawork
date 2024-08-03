@@ -31,7 +31,7 @@
 
 ## ☕ Java
 
-<img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="40" height="40"/>
+<img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="40" height="40"/ hint="Spring">
 
 ## ©️ C/C++
 
