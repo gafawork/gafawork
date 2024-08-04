@@ -28,7 +28,7 @@
 
 
 ## 📜 JavaScript
-<img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="40" height="40" title="Javascript"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="40" height="40" title="TypeScript"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="40" height="40" title="
+ <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="40" height="40" title="
 npm"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="40" height="40" title="yarn"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="40" height="40" title="Node"/>
 <br><br>
 
