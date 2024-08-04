@@ -158,7 +158,7 @@ MatLab"/>
 <br><br>
 
 ##  Embedded
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" /> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/0f0843ae3b9b3a2169e4cb3643e73c6f363a2fa6/img/zigbee.png" width="40" height="40" title="Zigbee"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" /> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/0f0843ae3b9b3a2169e4cb3643e73c6f363a2fa6/img/zigbee.png" width="40" height="40" title="Zigbee"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" width="40" height="40" title="Arduino"/> 
 <br><br>
 
 ## 📟 GitHub Stats
