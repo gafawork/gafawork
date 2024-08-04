@@ -64,12 +64,9 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 MatLab"/>
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/e6d8e973453cef37d93fdc6f4e44ef756c2ac4a3/img/RabbitMQ-Dark.svg" width="40" height="40" title="RabbitMQ"/> 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/b752a44a1b13930f6bba0b1c3dc427346f341c5a/img/Postman.svg" width="40" height="40" title="Postman"/> 
+
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/56c2139c6672a5346a20ca861210de302896c764/img/sonarqube-logo.png" width="40" height="40" title="SonarQube"/> 
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
