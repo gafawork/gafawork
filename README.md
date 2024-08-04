@@ -70,7 +70,9 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 <br><br>
 
 ## 🎛️ Operating System
-<br><br>
+ <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="40" height="40" title="Windows"/>  <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="40" height="40" title="Linux"/>  <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="40" height="40" title="Ubuntu"/>
+ <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" width="40" height="40" title="Fedora"/> 
+ <br><br>
 
 ## 🗄️ Middleware
 <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/575c5d1e1bb350d3fbaa1131b598248991d91919/img/jboss.png" width="40" height="40" title="JBoss"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/325a3010b8383123dade583c6430d187dfff9f90/img/mosquitto.png" width="40" height="40" title="Mosquitto"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/e6d8e973453cef37d93fdc6f4e44ef756c2ac4a3/img/RabbitMQ-Dark.svg" width="40" height="40" title="RabbitMQ"/>  <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183017080-bc1a1389-7286-4888-af7b-5aad88909995.png" width="40" height="40" title="Jetty"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/0d84d7756c0c414b3626f1b5885be18849e9087b/img/kafka.svg" width="40" height="40" title="Kafka"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/c4544f59c7e15ef5e74a5ee25ccc0496a20dcd37/img/beam.jfif" width="40" height="40" title="Beam"/>
