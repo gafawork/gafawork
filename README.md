@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/76e8407b-c54d-4dfc-ba21-cf93f56c2149)
 
 ![image](https://github.com/gafawork/gafawork/blob/main/whitebox_gafawork.png)
 
@@ -57,7 +57,7 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/fb7669e4cad7e48700691efa4462323ecc8086f8/img/openzepelin.png" width="40" height="40" title="Openzepelin"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/f4b37629c0dae757a4f08c80e91ccbc8cf3a6945/img/ether.png" width="40" height="40" title="Ether.js"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/c59993a9d9ebb6e5447d8e7b6e6c436c76837c87/img/slither.png" width="40" height="40" title="Slither"/>
 <br><br>
           
-## 🤿 DevOps
+## ⚙️ DevOps
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="40" height="40" title="CI/CD"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" width="40" height="40" title="Jenkins"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" width="40" height="40" title=" Grafana"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" width="40" height="40" title="Prometheus"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/d61e10ac320451658b3863509e027c686c6e28f2/img/Docker.svg" width="40" height="40" title="Docker"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/b9ff5b9eb4cb919cb03ffdcc4eca4b6e55f9b3d4/img/BitBucket-Dark.svg" width="40" height="40" title="BitBucket"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/2c5fda65b310c1ed0b4c74fb90430492abeb73d7/img/GitLab-Dark.svg" width="40" height="40" title="Gitlab"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" width="40" height="40" title="ELK"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/1c3d829ab550e3f74c8912da9a6705be09ddbf1b/img/devlake.png" width="40" height="40" title="DevLake"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/a6e39b8b0814318e64af9db73b9a2052dc0fbc97/img/Mattermost.jpg" width="40" height="40" title="Mattermost"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/56c2139c6672a5346a20ca861210de302896c764/img/sonarqube-logo.png" width="40" height="40" title="SonarQube"/>
 <br><br>
 
