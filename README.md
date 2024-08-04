@@ -100,6 +100,8 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 <br><br>
 
 # 🤿 DevOps
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
 <br><br>
 
 
