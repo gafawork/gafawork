@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/76e8407b-c54d-4dfc-ba21-cf93f56c2149)
-
 ![image](https://github.com/gafawork/gafawork/blob/main/whitebox_gafawork.png)
 
 
