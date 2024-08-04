@@ -99,8 +99,7 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 
 
 ## 💻 IDEs/Editors
-<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/6164a8dd60ae29ab63887b9891153cb0661b097a/img/Atom.svg" width="40" height="40" title="Atom"/> 
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/6164a8dd60ae29ab63887b9891153cb0661b097a/img/Atom.svg" width="40" height="40" title="Atom"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/9c3d714b27ec93fffd14bc717e168d929b9027b0/img/Eclipse-Dark.svg" width="40" height="40" title="Eclipse"/> 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
