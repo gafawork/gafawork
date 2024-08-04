@@ -41,8 +41,6 @@ npm"/> <img loading="lazy" src="https://user-images.githubusercontent.com/251815
 <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/3aa304c2d7d45195efbf7144974c688e34177ba0/img/openapi-1.svg" width="40" height="40" title="Openapi"/>
 <br><br>
 
-## ©️ C/C++
-<br><br>
 
 ## 🛢️ Databases
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="40" height="40" title="PostgreSQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="40" height="40" title="Oracle"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="40" height="40" title="
