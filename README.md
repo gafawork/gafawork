@@ -112,11 +112,6 @@ MatLab"/>
 <br><br>
 
 
-## 🤖 AI
-<img loading="lazy" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="40" height="40" title="TensorFlow"/>       
-<br><br>
-
-
 ## 🔬 Analytics
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" width="40" height="40" title="ELK"/>    
 <br><br>
@@ -137,8 +132,8 @@ MatLab"/>
 <br><br>
 
 
-## 🖥️ ML/DL
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+## 🖥️ AI/ML/DL
+<img loading="lazy" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="40" height="40" title="TensorFlow"/> ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
