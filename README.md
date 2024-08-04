@@ -43,13 +43,6 @@ npm"/> <img loading="lazy" src="https://user-images.githubusercontent.com/251815
 <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" width="40" height="40" title="Qt"/>
 <br><br>
 
-
-## 🐍 Python
-
-<img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" width="40" height="40" title="NumPy"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" width="40" height="40" title="Pandas"/>
-<br><br>
-
-
 ## 🛢️ Databases
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="40" height="40" title="PostgreSQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="40" height="40" title="Oracle"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="40" height="40" title="
 MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" width="40" height="40" title="Redis"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png" width="40" height="40" title="Neo4j"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="40" height="40" title="MongoDB"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" width="40" height="40" title="MariaDB"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" height="40" title="SQLite"/>
@@ -92,13 +85,8 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 
 
 ## 🖥️ AI/ML/DL
-<img loading="lazy" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="40" height="40" title="TensorFlow"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/3df73d094467aa955b57664141980fc75cf67077/img/Anaconda-Dark.svg" width="40" height="40" title="
-Anaconda"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="40" height="40" title="
-Jupyter Notebook"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/8281449eca6fb2b4a200c0169cd1f38e4583c9fb/img/keras.png" width="40" height="40" title="
-Jupyter Notebook"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/e7af12cadd3a487853e7e13c75fae963133ab341/img/matplotlib.png" width="40" height="40" title="
-Matplotlib"/>
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<img loading="lazy" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="40" height="40" title="TensorFlow"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/3df73d094467aa955b57664141980fc75cf67077/img/Anaconda-Dark.svg" width="40" height="40" title="Anaconda"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="40" height="40" title="Jupyter Notebook"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/8281449eca6fb2b4a200c0169cd1f38e4583c9fb/img/keras.png" width="40" height="40" title="Jupyter Notebook"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/e7af12cadd3a487853e7e13c75fae963133ab341/img/matplotlib.png" width="40" height="40" title="Matplotlib"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" width="40" height="40" title="NumPy"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" width="40" height="40" title="Pandas"/>
+
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
