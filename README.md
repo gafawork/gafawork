@@ -40,7 +40,7 @@ npm"/> <img loading="lazy" src="https://user-images.githubusercontent.com/251815
 
 
 ## ©️ C/C++
-<img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" width="40" height="40" title="Qt"/>
+
 <br><br>
 
 ## 🛢️ Databases
@@ -80,7 +80,7 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 <br><br>
 
 ## 💻 IDEs/Editors
-<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/6164a8dd60ae29ab63887b9891153cb0661b097a/img/Atom.svg" width="40" height="40" title="Atom"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/9c3d714b27ec93fffd14bc717e168d929b9027b0/img/Eclipse-Dark.svg" width="40" height="40" title="Eclipse"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/8db64af324e5afba71df2a1040069b27669395b5/img/Idea-Dark.svg" width="40" height="40" title="IntelliJ"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/b83375126ee90e0ffbc0005df9f52ee4fa0c2cea/img/netbeans.png" width="40" height="40" title="Netbeans"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/60c080d66853c023296ed4f52e29fbe5aaf0c139/img/PyCharm-Dark.svg" width="40" height="40" title="PyCharm"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/77958cac8f4e9bc165fb16fdea4f158cca089159/img/VSCode-Dark.svg" width="40" height="40" title="VSCode"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/f5ffa8d22b35b135da733071e251fa49b7068e01/img/VisualStudio-Dark.svg" width="40" height="40" title="Visual Studio"/> 
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/6164a8dd60ae29ab63887b9891153cb0661b097a/img/Atom.svg" width="40" height="40" title="Atom"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/9c3d714b27ec93fffd14bc717e168d929b9027b0/img/Eclipse-Dark.svg" width="40" height="40" title="Eclipse"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/8db64af324e5afba71df2a1040069b27669395b5/img/Idea-Dark.svg" width="40" height="40" title="IntelliJ"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/b83375126ee90e0ffbc0005df9f52ee4fa0c2cea/img/netbeans.png" width="40" height="40" title="Netbeans"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/60c080d66853c023296ed4f52e29fbe5aaf0c139/img/PyCharm-Dark.svg" width="40" height="40" title="PyCharm"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/77958cac8f4e9bc165fb16fdea4f158cca089159/img/VSCode-Dark.svg" width="40" height="40" title="VSCode"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/f5ffa8d22b35b135da733071e251fa49b7068e01/img/VisualStudio-Dark.svg" width="40" height="40" title="Visual Studio"/> <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" width="40" height="40" title="Qt"/>
 <br><br>
 
 
