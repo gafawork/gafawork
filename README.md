@@ -107,8 +107,7 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 <br><br>
 
 # 🤿 DevOps
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
+<img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="40" height="40" title="Docker"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="40" height="40" title="CI/CD"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" width="40" height="40" title="Jenkins"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" width="40" height="40" title=" Grafana"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" width="40" height="40" title="Prometheus"/>
 <br><br>
 
 
