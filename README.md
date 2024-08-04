@@ -69,7 +69,7 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 
 
 ## 🔗 Blockchain
-<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/97ad05fbdb98587cdb1206e1b5c0d945625bcf7c/img/besu.jpg" width="50" height="50" title="Hyperledger Besu"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/08b27f8b44a9994eb69e087b79a3dcab278cd898/img/blockscout.jpg" width="40" height="40" title="Blockscout"/> 
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/97ad05fbdb98587cdb1206e1b5c0d945625bcf7c/img/besu.jpg" width="40" height="40" title="Hyperledger Besu"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/08b27f8b44a9994eb69e087b79a3dcab278cd898/img/blockscout.jpg" width="40" height="40" title="Blockscout"/> 
 <br><br>
 
 
