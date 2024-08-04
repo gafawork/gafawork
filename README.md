@@ -69,14 +69,8 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 
 
 ## 🔗 Blockchain
-<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/97ad05fbdb98587cdb1206e1b5c0d945625bcf7c/img/besu.jpg" width="40" height="40" title="Hyperledger Besu"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/08b27f8b44a9994eb69e087b79a3dcab278cd898/img/blockscout.jpg" width="40" height="40" title="Blockscout"/> 
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/97ad05fbdb98587cdb1206e1b5c0d945625bcf7c/img/besu.jpg" width="40" height="40" title="Hyperledger Besu"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/08b27f8b44a9994eb69e087b79a3dcab278cd898/img/blockscout.jpg" width="40" height="40" title="Blockscout"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/92b7c0e5f9f30f2cc0ff2000e90d814402483ed7/img/ethereum3649.jpg" width="50" height="50" title="Ethereum"/> 
 <br><br>
-
-
-## 💲 Cryptocurrency
-<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/92b7c0e5f9f30f2cc0ff2000e90d814402483ed7/img/ethereum3649.jpg" width="50" height="50" title="Ethereum"/> 
-<br><br>
-
           
 ## 📚 Frameworks, Platforms and Libraries
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" width="40" height="40"/>  <img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original-wordmark.svg" width="40" height="40"/> 
