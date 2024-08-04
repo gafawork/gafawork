@@ -92,20 +92,8 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="40" height="40" title="CI/CD"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" width="40" height="40" title="Jenkins"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" width="40" height="40" title=" Grafana"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" width="40" height="40" title="Prometheus"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/d61e10ac320451658b3863509e027c686c6e28f2/img/Docker.svg" width="40" height="40" title="Docker"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/b9ff5b9eb4cb919cb03ffdcc4eca4b6e55f9b3d4/img/BitBucket-Dark.svg" width="40" height="40" title="BitBucket"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/2c5fda65b310c1ed0b4c74fb90430492abeb73d7/img/GitLab-Dark.svg" width="40" height="40" title="Gitlab"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" width="40" height="40" title="ELK"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/1c3d829ab550e3f74c8912da9a6705be09ddbf1b/img/devlake.png" width="40" height="40" title="DevLake"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/a6e39b8b0814318e64af9db73b9a2052dc0fbc97/img/Mattermost.jpg" width="40" height="40" title="Mattermost"/> 
 <br><br>
 
-
-## 🔬 Analytics
-
-<br><br>
-
-
 ## 💻 IDEs/Editors
-<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/6164a8dd60ae29ab63887b9891153cb0661b097a/img/Atom.svg" width="40" height="40" title="Atom"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/9c3d714b27ec93fffd14bc717e168d929b9027b0/img/Eclipse-Dark.svg" width="40" height="40" title="Eclipse"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/8db64af324e5afba71df2a1040069b27669395b5/img/Idea-Dark.svg" width="40" height="40" title="IntelliJ"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/b83375126ee90e0ffbc0005df9f52ee4fa0c2cea/img/netbeans.png" width="40" height="40" title="Netbeans"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/60c080d66853c023296ed4f52e29fbe5aaf0c139/img/PyCharm-Dark.svg" width="40" height="40" title="PyCharm"/> 
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-
-
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/6164a8dd60ae29ab63887b9891153cb0661b097a/img/Atom.svg" width="40" height="40" title="Atom"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/9c3d714b27ec93fffd14bc717e168d929b9027b0/img/Eclipse-Dark.svg" width="40" height="40" title="Eclipse"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/8db64af324e5afba71df2a1040069b27669395b5/img/Idea-Dark.svg" width="40" height="40" title="IntelliJ"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/b83375126ee90e0ffbc0005df9f52ee4fa0c2cea/img/netbeans.png" width="40" height="40" title="Netbeans"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/60c080d66853c023296ed4f52e29fbe5aaf0c139/img/PyCharm-Dark.svg" width="40" height="40" title="PyCharm"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/77958cac8f4e9bc165fb16fdea4f158cca089159/img/VSCode-Dark.svg" width="40" height="40" title="VSCode"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/f5ffa8d22b35b135da733071e251fa49b7068e01/img/VisualStudio-Dark.svg" width="40" height="40" title="Visual Studio"/> 
 <br><br>
 
 
