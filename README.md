@@ -62,20 +62,10 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 
 
 ## 🔗 Blockchain
-<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/97ad05fbdb98587cdb1206e1b5c0d945625bcf7c/img/besu.jpg" width="40" height="40" title="Hyperledger Besu"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/08b27f8b44a9994eb69e087b79a3dcab278cd898/img/blockscout.jpg" width="40" height="40" title="Blockscout"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/92b7c0e5f9f30f2cc0ff2000e90d814402483ed7/img/ethereum3649.jpg" width="50" height="50" title="Ethereum"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/e26ebcaffb86b1a2a0622da0da19b386d0b4ccb4/img/remix.svg" width="40" height="40" title="Remix"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/18cda141278d1bdde65c771e6629fbdc53771de6/img/web3js.jpg" width="40" height="40" title="Web3js"/>
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/97ad05fbdb98587cdb1206e1b5c0d945625bcf7c/img/besu.jpg" width="40" height="40" title="Hyperledger Besu"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/08b27f8b44a9994eb69e087b79a3dcab278cd898/img/blockscout.jpg" width="40" height="40" title="Blockscout"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/92b7c0e5f9f30f2cc0ff2000e90d814402483ed7/img/ethereum3649.jpg" width="50" height="50" title="Ethereum"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/e26ebcaffb86b1a2a0622da0da19b386d0b4ccb4/img/remix.svg" width="40" height="40" title="Remix"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/18cda141278d1bdde65c771e6629fbdc53771de6/img/web3js.jpg" width="40" height="40" title="Web3js"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width="40" height="40" title="Hardhat"/>
 <br><br>
           
-## 📚 Frameworks, Platforms and Libraries
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" width="40" height="40"/>  <img  loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original-wordmark.svg" width="40" height="40"/> 
-
-
-
-
- 
-
-<br><br>
-
-# 🤿 DevOps
+## 🤿 DevOps
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="40" height="40" title="CI/CD"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" width="40" height="40" title="Jenkins"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" width="40" height="40" title=" Grafana"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" width="40" height="40" title="Prometheus"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/d61e10ac320451658b3863509e027c686c6e28f2/img/Docker.svg" width="40" height="40" title="Docker"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/b9ff5b9eb4cb919cb03ffdcc4eca4b6e55f9b3d4/img/BitBucket-Dark.svg" width="40" height="40" title="BitBucket"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/2c5fda65b310c1ed0b4c74fb90430492abeb73d7/img/GitLab-Dark.svg" width="40" height="40" title="Gitlab"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" width="40" height="40" title="ELK"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/1c3d829ab550e3f74c8912da9a6705be09ddbf1b/img/devlake.png" width="40" height="40" title="DevLake"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/a6e39b8b0814318e64af9db73b9a2052dc0fbc97/img/Mattermost.jpg" width="40" height="40" title="Mattermost"/> 
 <br><br>
 
