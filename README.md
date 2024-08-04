@@ -74,7 +74,7 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 
 
 ## 💲 Cryptocurrency
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/92b7c0e5f9f30f2cc0ff2000e90d814402483ed7/img/ethereum3649.jpg" width="40" height="40" title="Ethereum"/> 
 <br><br>
 
           
