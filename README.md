@@ -23,7 +23,7 @@
 
 ## 📋 Languages
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="40" height="40" title="C"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="40" height="40" title="C++"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40" height="40" title="Python"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="40" height="40" title="Java"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" width="40" height="40" title="Solidity"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  width="40" height="40" title="Flutter"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg"  width="40" height="40" title="Dart"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="40" height="40" title="Visual Basic"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/45be08526eb42e3befa7de703b06d209e46b2ca2/img/javafx.png" width="56" height="56" title="JavaFX"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="40" height="40" title="JavaScript"/>  <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="40" height="40" title="TypeScript"/> 
-<br>
+<br><br>
 
 
 
@@ -37,9 +37,7 @@ npm"/> <img loading="lazy" src="https://user-images.githubusercontent.com/251815
 <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/3aa304c2d7d45195efbf7144974c688e34177ba0/img/openapi-1.svg" width="40" height="40" title="Openapi"/>
 <br><br>
 
-
 ## ©️ C/C++
-
 <br><br>
 
 ## 🛢️ Databases
