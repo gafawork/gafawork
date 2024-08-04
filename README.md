@@ -141,7 +141,7 @@ MatLab"/>
 ## 🎛️ Operating System
 <br><br>
 
-## 🗄️ Servers
+## 🗄️ Middleware
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 
 <br><br>
