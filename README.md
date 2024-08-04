@@ -131,7 +131,7 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 <br><br>
 
 ## 🗄️ Middleware
-![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/575c5d1e1bb350d3fbaa1131b598248991d91919/img/jboss.png" width="40" height="40" title="JBoss"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/325a3010b8383123dade583c6430d187dfff9f90/img/mosquitto.png" width="40" height="40" title="Mosquitto"/> 
+<img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/575c5d1e1bb350d3fbaa1131b598248991d91919/img/jboss.png" width="40" height="40" title="JBoss"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/325a3010b8383123dade583c6430d187dfff9f90/img/mosquitto.png" width="40" height="40" title="Mosquitto"/> 
 <br><br>
 
 ## 🕓 Version Control
