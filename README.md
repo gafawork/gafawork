@@ -147,11 +147,8 @@ MatLab"/>
 <br><br>
 
 ## 🕓 Version Control
-![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/724570464505e1844b1aafca99f54de2beff0833/img/svn.png" width="40" height="40" title="SVN"/> 
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/85627a778fb18882c8c39ae8fe7549631295fd13/img/Git.svg" width="40" height="40" title="Git"/> 
 <br><br>
 
 ##  Embedded
