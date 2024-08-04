@@ -94,8 +94,8 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 ## 🖥️ AI/ML/DL
 <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="40" height="40" title="TensorFlow"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/3df73d094467aa955b57664141980fc75cf67077/img/Anaconda-Dark.svg" width="40" height="40" title="
 Anaconda"/> <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="40" height="40" title="
+Jupyter Notebook"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/8281449eca6fb2b4a200c0169cd1f38e4583c9fb/img/keras.png" width="40" height="40" title="
 Jupyter Notebook"/>
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
