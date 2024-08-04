@@ -72,7 +72,7 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 
 ## 🎛️ Operating System
  <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="40" height="40" title="Windows"/>  <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="40" height="40" title="Linux"/>  <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="40" height="40" title="Ubuntu"/>
- <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" width="40" height="40" title="Fedora"/> 
+ <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" width="40" height="40" title="Fedora"/>  <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/1c4328908b097db23120556c31d7a33033443b2c/img/FreeRTOS.png" width="40" height="40" title="Free RTOS"/>
  <br><br>
 
 ## 🗄️ Middleware
