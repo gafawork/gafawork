@@ -69,7 +69,7 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 
 
 ## 🔗 Blockchain
-![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/97ad05fbdb98587cdb1206e1b5c0d945625bcf7c/img/besu.jpg" width="40" height="40" title="Hyperledger Besu"/> 
 <br><br>
 
 
