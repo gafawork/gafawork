@@ -78,7 +78,7 @@ MySQL"/> <img loading="lazy" src="https://user-images.githubusercontent.com/2518
 <br><br>
 
 ## 🕓 Version Control
-<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/724570464505e1844b1aafca99f54de2beff0833/img/svn.png" width="40" height="40" title="SVN"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/85627a778fb18882c8c39ae8fe7549631295fd13/img/Git.svg" width="40" height="40" title="Git"/> 
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/78071f9c21b89b6c880994053bd2a7f252ad9e78/img/svn.png" width="40" height="40" title="SVN"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/78071f9c21b89b6c880994053bd2a7f252ad9e78/img/Git.svg" width="40" height="40" title="Git"/> 
 <br><br>
 
 ## 🔌 Embedded
