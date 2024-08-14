@@ -37,6 +37,9 @@ npm"/> <img loading="lazy" src="https://user-images.githubusercontent.com/251815
 ## API
 <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/6c3dab1f3dafa121e79f7790d03618717347f3fb/img/swagger-logo.png" width="40" height="40" title="Swagger"/> <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/8dcde4f8b628cb0e35965e1598ff33b364f8b372/img/Postman.svg" width="40" height="40" title="Postman"/>
 <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/f17bf43f57aa883de8c29274b6512788bf608324/img/openapi-1.svg" width="40" height="40" title="Openapi"/>
+<img loading="lazy" src="https://github.com/gafawork/gafawork/blob/7c327d8372e290ccde395f4f3feeb90378aa5875/img/insomnia.svg" width="40" height="40" title="Insomnia"/>
+
+
 <br><br>
 
 
