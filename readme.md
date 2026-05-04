@@ -168,7 +168,7 @@
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/78071f9c21b89b6c880994053bd2a7f252ad9e78/img/svn.png" width="40" title="Apache Subversion (SVN)"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/78071f9c21b89b6c880994053bd2a7f252ad9e78/img/Git.svg" width="40" title="Git"/>
-</p>
+</p><br>
 
 ## 🔌 Embedded
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -190,7 +190,7 @@
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/a70cfdde35ff95e77f645a2d07c71c9047772cbb/img/qemu.jfif" width="40" title="QEMU"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/a70cfdde35ff95e77f645a2d07c71c9047772cbb/img/kvm.png" width="40" title="KVM"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/a70cfdde35ff95e77f645a2d07c71c9047772cbb/img/virtmanager.jfif" width="40" title="virt-manager"/>
-</p>
+</p><br>
 
 ## 📟 GitHub Stats
 <p align="center">
