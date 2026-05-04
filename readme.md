@@ -33,15 +33,14 @@
   <img src="https://github.com/gafawork/gafawork/blob/e2e236088c45aa35a094f4e2ffeee5a53e4138e4/img/javafx.png?raw=true" width="40" title="JavaFX">
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="40" title="JavaScript">
   <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="40" title="TypeScript">
-</p>
+</p><br>
 
 ## 📜 JavaScript
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
   <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="40" title="npm"/>
   <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="40" title="yarn"/>
   <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="40" title="Node"/>
-</p>
-<br><br>
+</p><br>
 
 ## ☕ Java
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -56,7 +55,7 @@
   <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" width="40" title="Lombok"/>
   <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png" width="40" title="Vaadin"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/b09401285c736e40f6ead7cd5b56e29333b74676/img/gradle.png" width="40" title="Gradle"/>
-</p>
+</p><br>
 
 ## API
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -64,7 +63,7 @@
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/8dcde4f8b628cb0e35965e1598ff33b364f8b372/img/Postman.svg" width="40" title="Postman"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/f17bf43f57aa883de8c29274b6512788bf608324/img/openapi-1.svg" width="40" title="OpenAPI"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/7c327d8372e290ccde395f4f3feeb90378aa5875/img/insomnia.svg" width="40" title="Insomnia"/>
-</p>
+</p><br>
 
 ## 🛢️ Databases
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -77,10 +76,11 @@
   <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" width="40" title="MariaDB"/>
   <img loading="lazy" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" title="SQLite"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/d000564c9afab1f40f9f06eaddbdb4f48835cd6f/img/firebase.png" width="40" title="Firebase"/>
-</p>
+</p><br>
 
 ## 🧰 Sofware & Tools
 <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/ec836dbcdb3d35659e569383479883abcb1aa957/img/flutterflow_logo.jfif" width="40" height="40" title="FlutterFlow"/> 
+<br>
 
 ## 🔗 Blockchain
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -93,7 +93,7 @@
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/8bde84b80d86f224331b66940e892dad2ef00ea1/img/openzepelin.png" width="40" title="OpenZeppelin"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/d5bce903f0afe8712bfe67791bef9be045e6045e/img/ether.png" width="40" title="Ethers.js"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/d875d0446f700033daf19597fa8c534d81c8516d/img/slither.png" width="40" title="Slither"/>
-</p>
+</p><br>
          
 ## ⚙️ DevOps
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -108,7 +108,7 @@
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/cab9d446414b5f4efe4ce6c8eb88cfcba0452f42/img/devlake.png" width="40" title="DevLake"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/46c463847c5bb491eca94dc306dd8df6653ed811/img/Mattermost.jpg" width="40" title="Mattermost"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/a06fee3db399e3d28d49087cd31bbc60708b64c1/img/sonarqube-logo.png" width="40" title="SonarQube"/>
-</p>
+</p><br>
 
 ## 💻 IDEs/Editors
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -124,7 +124,7 @@
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/df395388a4cb561058ec62959f709cb73f1c9adf/img/atmel_studio.png" width="40" title="Atmel Studio"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/2cd67012c4a6eb7e157e4b763b38a966d947555c/img/nRF_Connect.png" width="40" title="nRF Connect"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/c2bb0ae7cd4a19c4207be420d97fbce5c2a9cc4b/img/lazarus.png" width="40" title="Lazarus (Pascal)"/>
-</p>
+</p><br>
 
 ## 🖥️ AI/ML/DL
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -140,7 +140,7 @@
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/a273f6e8968d028328581b851aa95ce05ef9d474/img/scikit.png" width="40" title="scikit-learn"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/a331b5adec3d79d1bcd3d2f075f8fb9164a13db7/img/scipy_logo300x300.png" width="40" title="SciPy"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" title="MATLAB"/>
-</p>
+</p><br>
 
 ## 🎛️ Operating System
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -151,7 +151,7 @@
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/3713f707fff1d3a707a58fecff6774f6f8da1693/img/FreeRTOS.png" width="40" title="FreeRTOS"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/a1bbc44b35296420c1c5cd3d8b88044187d800bf/img/yocto.png" width="40" title="Yocto Project"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/12e86c7578e9ecc82fab26cfc7aed2f93dc66857/img/zephyr.jfif" width="40" title="Zephyr"/>
-</p>
+</p><br>
 
 ## 🗄️ Middleware
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -162,7 +162,7 @@
   <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183017080-bc1a1389-7286-4888-af7b-5aad88909995.png" width="40" title="Jetty"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/744286c261813dfd5e519028dd70e726f74c6c71/img/kafka.svg" width="40" title="Apache Kafka"/>
   <img loading="lazy" src="https://github.com/gafawork/gafawork/blob/727575e97f51c4713de62c431da4105d679152cb/img/beam.jfif" width="40" title="Apache Beam"/>
-</p>
+</p><br>
 
 ## 🕓 Version Control
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
